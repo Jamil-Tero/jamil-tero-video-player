@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Jamil-Tero/jamil-tero-video-player/precache-manifest.56cceac32756b08e5675cbdc1ed63407.js"
+  "/jamil-tero-video-player/precache-manifest.98c30731860ac31461eca2956f01f910.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Jamil-Tero/jamil-tero-video-player/index.html", {
+workbox.routing.registerNavigationRoute("/jamil-tero-video-player/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

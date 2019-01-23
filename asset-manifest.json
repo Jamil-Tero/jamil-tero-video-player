@@ -1,13 +1,13 @@
 {
-  "main.css": "/Jamil-Tero/jamil-tero-video-player/static/css/main.4c07753d.chunk.css",
-  "main.js": "/Jamil-Tero/jamil-tero-video-player/static/js/main.5272ae65.chunk.js",
-  "main.js.map": "/Jamil-Tero/jamil-tero-video-player/static/js/main.5272ae65.chunk.js.map",
-  "static/js/1.a162de45.chunk.js": "/Jamil-Tero/jamil-tero-video-player/static/js/1.a162de45.chunk.js",
-  "static/js/1.a162de45.chunk.js.map": "/Jamil-Tero/jamil-tero-video-player/static/js/1.a162de45.chunk.js.map",
-  "runtime~main.js": "/Jamil-Tero/jamil-tero-video-player/static/js/runtime~main.73407c8d.js",
-  "runtime~main.js.map": "/Jamil-Tero/jamil-tero-video-player/static/js/runtime~main.73407c8d.js.map",
-  "static/css/main.4c07753d.chunk.css.map": "/Jamil-Tero/jamil-tero-video-player/static/css/main.4c07753d.chunk.css.map",
-  "index.html": "/Jamil-Tero/jamil-tero-video-player/index.html",
-  "precache-manifest.56cceac32756b08e5675cbdc1ed63407.js": "/Jamil-Tero/jamil-tero-video-player/precache-manifest.56cceac32756b08e5675cbdc1ed63407.js",
-  "service-worker.js": "/Jamil-Tero/jamil-tero-video-player/service-worker.js"
+  "main.css": "/jamil-tero-video-player/static/css/main.4c07753d.chunk.css",
+  "main.js": "/jamil-tero-video-player/static/js/main.2f8ad1fa.chunk.js",
+  "main.js.map": "/jamil-tero-video-player/static/js/main.2f8ad1fa.chunk.js.map",
+  "static/js/1.a162de45.chunk.js": "/jamil-tero-video-player/static/js/1.a162de45.chunk.js",
+  "static/js/1.a162de45.chunk.js.map": "/jamil-tero-video-player/static/js/1.a162de45.chunk.js.map",
+  "runtime~main.js": "/jamil-tero-video-player/static/js/runtime~main.a79ecdf4.js",
+  "runtime~main.js.map": "/jamil-tero-video-player/static/js/runtime~main.a79ecdf4.js.map",
+  "static/css/main.4c07753d.chunk.css.map": "/jamil-tero-video-player/static/css/main.4c07753d.chunk.css.map",
+  "index.html": "/jamil-tero-video-player/index.html",
+  "precache-manifest.98c30731860ac31461eca2956f01f910.js": "/jamil-tero-video-player/precache-manifest.98c30731860ac31461eca2956f01f910.js",
+  "service-worker.js": "/jamil-tero-video-player/service-worker.js"
 }
