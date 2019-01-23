@@ -30,3 +30,50 @@
     transform: rotate(360deg);
   }
 }
+
+.divBoxStyle {
+  width: 85vw;
+  height: 30vw;
+  border-radius: 25px;
+  overflow: hidden;
+  margin: auto;
+  top: 10px;
+  right: 0;
+  bottom: 0;
+  left: 0
+}
+
+@media only screen and (max-width: 768px) {
+  .divBoxStyle {
+    width: 85vw;
+    height: 60vw;
+    border-radius: 25px;
+    overflow: hidden;
+    margin: auto;
+    top: 10px;
+    right: 0;
+    bottom: 0;
+    left: 0
+  }
+}
+
+.urltext {
+  max-width: 80%;
+}
+
+.urltext span {
+    display:block;
+    width:96%;
+    word-wrap:break-word;
+
+}
+
+.root {
+  width: 85vw;
+    margin: auto;
+    top: 10;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    align-content: center;
+}
